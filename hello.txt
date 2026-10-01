@@ -1,6 +1,6 @@
 
 
-=======
+
 Hello from conflict-demo branch
->>>>>>> conflict-demo
+
 diff test
